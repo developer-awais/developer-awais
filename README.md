@@ -28,5 +28,9 @@
 <br />
 <br />
 
+## GITHUB STATS
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=developer-awais&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</div>
 
  
